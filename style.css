@@ -11,12 +11,12 @@ body {
   text-align: center;
 }
 
-header, nav, section, .aside, footer, section, article {
+header, nav, section, aside, footer, section, article {
   margin: 10px;
   padding: 30px 0 30px 0;
 }
 
-header, nav, section, .aside, footer {
+header, nav, section, aside, footer {
   background-color: #ebebeb;
 }
 
@@ -48,7 +48,7 @@ section {
     height: 310px;
 }
 
-.aside {
+aside {
   float: right;
   height: 310px;
   width: 425px;
